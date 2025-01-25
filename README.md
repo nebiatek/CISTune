@@ -56,3 +56,14 @@ Deploy-CISTune -ImplementationGroup 1 -ExcludeSafeguard "3.8"
 # Example to deploy all IG1 + IG2 safeguard except multiple safeguards
 Deploy-CISTune -ImplementationGroup 1 -ExcludeSafeguard @("3.8","4.7","4.9")
 ```
+
+## Contributing
+
+We welcome contributions to enhance CISTune. Please follow these steps to contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Submit a pull request with a detailed description of your changes.
+
+## Contact
+For questions or support, please open an issue in the repository.
